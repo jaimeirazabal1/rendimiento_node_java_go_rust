@@ -1,0 +1,12 @@
+{
+    "name": "js-concurrency-test",
+    "version": "1.0.0",
+    "description": "Simple concurrency test in Node.js using worker_threads",
+    "main": "concurrency-test.js",
+    "scripts": {
+      "start": "node concurrency-test.js"
+    },
+    "author": "Alex the Developer",
+    "license": "ISC"
+  }
+  
